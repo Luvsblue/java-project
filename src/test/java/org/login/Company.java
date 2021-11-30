@@ -29,5 +29,9 @@ public class Company {
 		System.out.println("after class: test05");
 
 	}
+	@Test
+	private void tc07() {
+
+	}
 
 }

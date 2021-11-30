@@ -33,5 +33,10 @@ public class Company {
 	private void tc06() {
 
 	}
+	@Test
+	private void tc07() {
+		
+	}
+	
 
 }

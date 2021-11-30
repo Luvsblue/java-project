@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126" started-at="2021-11-23T07:41:33Z" finished-at="2021-11-23T07:41:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126" started-at="2021-11-23T07:41:33Z" finished-at="2021-11-23T07:41:33Z">
+      <class name="org.login.Company">
+        <test-method status="PASS" signature="tc01()[pri:0, instance:org.login.Company@31ef45e3]" name="tc01" duration-ms="31" started-at="2021-11-23T07:41:33Z" finished-at="2021-11-23T07:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:org.login.Company@31ef45e3]" name="tc02" duration-ms="16" started-at="2021-11-23T07:41:33Z" finished-at="2021-11-23T07:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc04()[pri:0, instance:org.login.Company@31ef45e3]" name="tc04" duration-ms="17" started-at="2021-11-23T07:41:33Z" finished-at="2021-11-23T07:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:org.login.Company@31ef45e3]" name="tc03" duration-ms="0" started-at="2021-11-23T07:41:33Z" finished-at="2021-11-23T07:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc05()[pri:0, instance:org.login.Company@31ef45e3]" name="tc05" duration-ms="0" started-at="2021-11-23T07:41:33Z" finished-at="2021-11-23T07:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+      </class> <!-- org.login.Company -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
